@@ -3,6 +3,14 @@ body {
     flex-direction: column;
 }
 
+.logo{
+    font-size: 20px;
+    color: #00ffff;
+    width: 40px;
+    height: 20px;
+}
+
+
 main{
     display: flex;
     flex-direction: row;
